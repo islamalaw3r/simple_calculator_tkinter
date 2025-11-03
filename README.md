@@ -1,13 +1,12 @@
 # Simple Calculator - Tkinter
+A simple calculator using Python and Tkinter.
 
-آلة حاسبة بسيطة باستخدام Python و Tkinter.
+## Skills Acquired
+- Graphical User Interface (GUI)
+- Using Buttons and Entry - Handling Events (Hover, Click)
+- Mathematical Operations + Square Root and %
+- Improving Design and Colors
 
-## المهارات المكتسبة
-- واجهات رسومية GUI
-- استخدام Buttons و Entry
-- التعامل مع الأحداث (Hover, Click)
-- العمليات الرياضية + الجذر التربيعي وال%
-- تحسين التصميم والألوان
-
-## مثال للواجهة
+## Interface Example
 ![screenshot](screenshot.png)
+
